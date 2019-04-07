@@ -7,4 +7,5 @@ Code is written in Python using Jupyter notebooks.
 
 ## Contributors:
 Suzy Kersten
+
 Sarah Jorissen
